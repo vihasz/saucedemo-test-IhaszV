@@ -39,5 +39,5 @@ public class CheckoutTests extends BaseTest {
         new CheckoutPage(driver).fillForm("", "", "");
         assertTrue(driver.findElement(By.cssSelector("[data-test='error']")).isDisplayed());
     }
-}
 
+}

@@ -57,3 +57,9 @@
     <version>5.2.5</version>
 </dependency>
 </dependencies>
+
+<dependency>
+<groupId>org.seleniumhq.selenium</groupId>
+<artifactId>selenium-devtools-v137</artifactId>
+<version>4.21.0</version>
+</dependency>
